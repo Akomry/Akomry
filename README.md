@@ -1,4 +1,4 @@
-# Heya ! Ako here (≧∇≦)ﾉ
+# Heya ! Ako here o/
 
 - 🏳️‍⚧️ Transfem and proud, pronouns she/her
 - 💾 Java developer in my free-time, Nest/Vue at work
