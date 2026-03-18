@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">🎧&#9729;️ Your Personal Streaming Service</tspan>
+      <tspan dy="1.2em" x="25">🎧 Your Personal Streaming Service</tspan>
     </text>
 
     <g transform="translate(30, 45)">
